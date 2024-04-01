@@ -1,0 +1,93 @@
+[
+    {
+        "question": "When did Tunisia become a republic?",
+        "options": [
+            { "text": "1 January 1948", "correct": false },
+            { "text": "3 May 1952", "correct": false },
+            { "text": "25 July 1957", "correct": true },
+            { "text": "18 December 1965", "correct": false }
+        ]
+    },
+    {
+        "question": "Which sea is to the north of Tunisia?",
+        "options": [
+            { "text": "Black", "correct": false },
+            { "text": "Mediterranean", "correct": true },
+            { "text": "Adriatic", "correct": false },
+            { "text": "Red", "correct": false }
+        ]
+    },
+    {
+        "question": "Which country is to the west of Tunisia?",
+        "options": [
+            { "text": "Algeria", "correct": true },
+            { "text": "Sudan", "correct": false },
+            { "text": "Tanzania", "correct": false },
+            { "text": "Egypt", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the capital of Tunisia?",
+        "options": [
+            { "text": "Nabul", "correct": false },
+            { "text": "Susah", "correct": false },
+            { "text": "Qibili", "correct": false },
+            { "text": "Tunis", "correct": true }
+        ]
+    },
+    {
+        "question": "Which is the currency of Tunisia?",
+        "options": [
+            { "text": "Guilder", "correct": false },
+            { "text": "Dinar", "correct": true },
+            { "text": "Pound", "correct": false },
+            { "text": "Lats", "correct": false }
+        ]
+    },
+    {
+        "question": "Which is the official language of Tunisia?",
+        "options": [
+            { "text": "Arabic", "correct": true },
+            { "text": "English", "correct": false },
+            { "text": "Portuguese", "correct": false },
+            { "text": "Turkish", "correct": false }
+        ]
+    },
+    {
+        "question": "Which city in Tunisia was razed by the Romans in 146 BC?",
+        "options": [
+            { "text": "Alexandria", "correct": false },
+            { "text": "Carthage", "correct": true },
+            { "text": "Damascus", "correct": false },
+            { "text": "Tripoli", "correct": false }
+        ]
+    },
+    {
+        "question": "When did the Arabs conquer Tunisia?",
+        "options": [
+            { "text": "112", "correct": false },
+            { "text": "291", "correct": false },
+            { "text": "325", "correct": false },
+            { "text": "647", "correct": true }
+        ]
+    },
+    {
+        "question": "When did Tunisia become a French protectorate?",
+        "options": [
+            { "text": "1502", "correct": false },
+            { "text": "1588", "correct": false },
+            { "text": "1881", "correct": true },
+            { "text": "1776", "correct": false }
+        ]
+    },
+    {
+        "question": "Who was Tunisia’s first president?",
+        "options": [
+            { "text": "Mohammed Ghannouchi", "correct": false },
+            { "text": "Habib Bourguiba", "correct": true },
+            { "text": "Ahmed Nejib Chebbi", "correct": false },
+            { "text": "Salah Ben Youssef", "correct": false }
+        ]
+    }
+]
+
